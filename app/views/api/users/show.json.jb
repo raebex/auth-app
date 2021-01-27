@@ -1,0 +1,5 @@
+{
+  name: @user.name,
+  email: @user.email,
+  current_user: current_user
+}
